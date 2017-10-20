@@ -163,6 +163,6 @@ class table extends page
     //close the opned file
    fclose($handle);
   }
-}
+} 
 ?>
  
